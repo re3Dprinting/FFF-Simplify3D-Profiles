@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<profile name="re3D GB3+ XLT Rev 4.4.1 Different Support Material" version="2021-07-26 14:34:59" app="S3D-Software 4.1.2">
-  <baseProfile>re3D GB3+ XLT</baseProfile>
+<profile name="re3D GB3+ Reg Rev 4.4.1 Different Support Material" version="2021-07-26 14:34:59" app="S3D-Software 4.1.2">
+  <baseProfile>re3D GB3+ Reg</baseProfile>
   <printMaterial>PLA(L) PETG(R)</printMaterial>
   <printQuality>Standard Resolution - Raft</printQuality>
   <printExtruders>Both Extruders</printExtruders>
@@ -159,8 +159,8 @@
   <overrideMachineDefinition>1</overrideMachineDefinition>
   <machineTypeOverride>0</machineTypeOverride>
   <strokeXoverride>540</strokeXoverride>
-  <strokeYoverride>760</strokeYoverride>
-  <strokeZoverride>900</strokeZoverride>
+  <strokeYoverride>600</strokeYoverride>
+  <strokeZoverride>600</strokeZoverride>
   <originOffsetXoverride>-55</originOffsetXoverride>
   <originOffsetYoverride>0</originOffsetYoverride>
   <originOffsetZoverride>0</originOffsetZoverride>
